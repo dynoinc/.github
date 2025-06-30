@@ -1,0 +1,13 @@
+<h1 align="center">
+  DynoInc&nbsp;🦖
+  <br>
+  <sub>Infrastructure that scales with you</sub>
+</h1>
+
+### 🚀 Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[Ratchet](https://github.com/dynoinc/ratchet)** <br> *Orchestrate anything from Slack* | A Slack bot that uses LLMs to drive end-to-end workflows across your internal tools. Connect APIs, automate hand-offs, and keep the whole team in the loop—right from chat. | ![build](https://img.shields.io/github/actions/workflow/status/dynoinc/ratchet/build.yml?branch=main) |
+| **[Skyvault](https://github.com/dynoinc/skyvault-rs)** <br> *KV on object storage* | Highly-durable key–value store that persists to cheap object storage. Ideal for serving. | ![build](https://img.shields.io/github/actions/workflow/status/dynoinc/skyvault-rs/build.yml?branch=main) |
+| **[Starflow](https://github.com/dynoinc/starflow)** <br> *Deterministic & durable workflows* | Author workflows in **Starlark** (Python-like) and replay them exactly—step by step—after crashes or code pushes. Pluggable storage backends with an append-only Store interface. | ![build](https://img.shields.io/github/actions/workflow/status/dynoinc/starflow/test.yml?branch=main) |
